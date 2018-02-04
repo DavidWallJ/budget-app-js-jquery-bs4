@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @DavidWallJ
- Sign out
- Unwatch 1
-  Star 0  Fork 0 DavidWallJ/budget-app-js-jquery-bs4
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Branch: master Find file Copy pathbudget-app-js-jquery-bs4/src/css/style.css
-f5bcd94  15 days ago
-@DavidWallJ DavidWallJ budget app setup with bs4, 3s6, jquery support
-1 contributor
-RawBlameHistory
-311 lines (266 sloc)  4.58 KB
 /**********************************************
 *** GENERAL
 **********************************************/
@@ -326,15 +308,3 @@ h2 {
 .unpaid:hover .item__description {
 	font-weight: 900;
 }
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
